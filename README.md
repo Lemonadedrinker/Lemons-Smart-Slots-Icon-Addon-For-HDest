@@ -1,6 +1,6 @@
 ### Lemon's Smart Slots
 # Icon Addon For HDest
-Additional addon for [Lemon's Smart Slots for UZDoom](https://github.com/Lemonadedrinker/Lemons-Smart-Slots-For-UZDoom/tree/v1.6), designed to be used with the [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor) mod and its weapon addons.
+Additional addon for [Lemon's Smart Slots for UZDoom](https://github.com/Lemonadedrinker/Lemons-Smart-Slots-For-UZDoom), designed to be used with the [Hideous Destructor](https://codeberg.org/mc776/HideousDestructor) mod and its weapon addons.
 
 **REQUIRES BOTH MODS TO RUN!!**
 
